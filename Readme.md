@@ -4,6 +4,6 @@ We are Let It Be Group. Get to know more about us
 
 - [Lisa](./lisa.md)
 - [Mari](./Mari.md)
-- Abel
+- [Abel](./Abel.md)
 - Galal
 - Sayed
