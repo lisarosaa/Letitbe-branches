@@ -2,7 +2,7 @@
 
 We are Let It Be Group. Get to know more about us
 
-- Lisa
+- [Lisa](./lisa.md)
 - Mari
 - Abel
 - Galal
