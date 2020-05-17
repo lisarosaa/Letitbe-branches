@@ -6,4 +6,4 @@ We are Let It Be Group. Get to know more about us
 - [Mari](./Mari.md)
 - [Abel](./Abel.md)
 - [Galal](./Galal.md)
-- Sayed
+- [Sayed](./Sayed.md)
