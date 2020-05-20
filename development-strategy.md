@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `team-name`
+> `LetItBe-Group`
 
 write a short description of your web page:
 
@@ -39,15 +39,15 @@ Wrote an introduction to the team and added a list with all of our names.
 
 ---
 
-## 2. User Story: introducing _name_
+## 2. User Story: introducing _Lisa_
 
-__As a site visitor, I want to learn more about *name*__
+__As a site visitor, I want to learn more about *Lisa*__
 
 ### Repo
 
-This user story was developed on a brach called `2-name`
+This user story was developed on a brach called `2-Lisa`
 
-### name.md
+### Lisa.md
 
 Write a markdown bio page for this team member
 
@@ -57,15 +57,15 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 3. User Story: introducing _name_
+## 3. User Story: introducing _Mari_
 
-__As a site visitor, I want to learn more about *name*__
+__As a site visitor, I want to learn more about *mari*__
 
 ### Repo
 
-This user story was developed on a brach called `3-name`
+This user story was developed on a brach called `3-mari`
 
-### name.md
+### Mari.md
 
 Write a markdown bio page for this team member
 
@@ -73,12 +73,54 @@ Write a markdown bio page for this team member
 
 Change this team member's name on the list into a link to their new profile page
 
----
+## 4. User Story: introducing _Abel_
 
-... fill out one section for each team member ...
+__As a site visitor, I want to learn more about *Abel*__
 
----
+### Repo
 
-## X. Finishing Touches
+This user story was developed on a brach called `3-Abel`
+
+### Abel.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
+## 5. User Story: introducing _Galal_
+
+__As a site visitor, I want to learn more about *Galal*__
+
+### Repo
+
+This user story was developed on a brach called `3-Galal`
+
+### Galal.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
+## 6. User Story: introducing _Sayed_
+
+__As a site visitor, I want to learn more about *Sayed*__
+
+### Repo
+
+This user story was developed on a brach called `3-Sayed`
+
+### Sayed.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
+## 7. Finishing Touches
 
 __As a perfectionist, I want everything perfect :)__
