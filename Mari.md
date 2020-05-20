@@ -12,4 +12,4 @@ She wants to be a UX designer
 Her favorite quote:
 >“The main thing is to be moved, to love, to hope, to tremble, to live.” ~Auguste Rodin
 
-[Back to Readme](./README.md)
+[Back to Readme](./Readme.md)
